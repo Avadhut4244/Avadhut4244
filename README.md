@@ -16,18 +16,6 @@ I enjoy working on various projects that challenge my skills and enhance my lear
 - **Android app development**
 - **Algorithmic problem-solving and data structures**
 
-## 🔧 How to Use My Projects
-1. Clone the repository using:
-   ```sh
-   git clone <repository_url>
-   ```
-2. Navigate to the respective project folder.
-3. Compile and run Java files using:
-   ```sh
-   javac filename.java
-   java filename
-   ```
-4. Modify and enhance the projects as needed! 🚀
 
 ## 🌟 My Learning Journey
 I'm constantly improving my skills by working on real-world projects, solving coding challenges, and staying up to date with the latest technologies. I believe in **continuous learning and innovation**. 💡
