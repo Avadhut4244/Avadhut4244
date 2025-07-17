@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-Hi there! I'm a **third-year undergraduate student** passionate about **software development**. I love solving problems, building applications, and continuously expanding my knowledge in the tech world. 💡
+Hi there! I'm a **last year undergraduate student** passionate about **software development**. I love solving problems, building applications, and continuously expanding my knowledge in the tech world. 💡
 
 ## 💻 Technologies & Skills
 - **Programming Languages**: Java, C++, JavaScript, Android (Java)
