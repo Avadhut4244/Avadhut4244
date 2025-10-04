@@ -22,7 +22,7 @@ I enjoy working on various projects that challenge my skills and enhance my lear
 
 - **Java-based applications**
 
-- **Web development with HTML, CSS, and JavaScript**
+- **Web development with HTML, CSS, and JavaScript, React**
 
 - **Android app development**
 
