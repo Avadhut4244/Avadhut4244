@@ -6,11 +6,11 @@ Hi there! I'm a **last year undergraduate student** passionate about **software 
 
 ## 💻 Technologies & Skills
 
-- **Programming Languages**: Java, C++, JavaScript, Android (Java)
+- **Programming Languages**: Java, Python, JavaScript
 
-- **Web Development**: HTML, CSS
+- **Web Development**: HTML, CSS , React
 
-- **Core Concepts**: Object-Oriented Programming (OOP), Data Structures, Algorithms
+- **Core Concepts**: Object-Oriented Programming (OOP), Data Structures & Algorithms
 
 - **Software Development**: Problem-solving, debugging, and project implementation
 
