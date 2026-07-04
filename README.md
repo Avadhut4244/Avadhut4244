@@ -34,7 +34,7 @@ I enjoy working on various projects that challenge my skills and enhance my lear
 
 ## 🌟 My Learning Journey
 
-I'm constantly improving my skills by working on real-world projects, solving coding challenges, and staying up to date with the latest technologies. I believe in **continuous learning and innovation**. 💡
+I'm constantly improving my skills by working on real-world projects, solving coding challenges, and staying up to date with the latest technologies. I believe in **continuous learning and innovation**.  💡
 
 
 
