@@ -1,49 +1,129 @@
-## 🚀 About Me
+<div align="center">
 
-Hi there! I'm a **last year undergraduate student** passionate about **software development**. I love solving problems, building applications, and continuously expanding my knowledge in the tech world. 💡
+<!-- Animated typing intro -->
+<a href="https://github.com/Avadhut4244">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Avadhut+Patil+%F0%9F%91%8B;CS+Undergrad+%7C+Java+%26+Django+Developer;Building+for+the+Web+%E2%98%81%EF%B8%8F+the+Cloud+%E2%98%81%EF%B8%8F;Currently+exploring+AI+%26+Data+Science" alt="Typing SVG" />
+</a>
 
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=&fontSize=0" width="100%"/>
+</div>
 
-## 💻 Technologies & Skills
+### 🧭 A little about the person behind the commits
 
-- **Programming Languages**: Java, Python, JavaScript
+I'm a final-year Computer Science undergrad from **Pune, India** who likes turning half-baked ideas into working software — then breaking it, and fixing it again, because that's usually where the real learning happens. My stack leans **Java + Django** for backend logic, **React** for interfaces, and lately **GitHub Actions & cloud tooling** for making sure the things I build don't just work on my machine.
 
-- **Web Development**: HTML, CSS , React
+I'm not chasing every trend — I'm chasing depth. Right now that means going deeper into **AI/ML and data-driven systems** while staying sharp on core CS fundamentals (yes, DSA included).
 
-- **Core Concepts**: Object-Oriented Programming (OOP), Data Structures & Algorithms
+```txt
+class Avadhut:
+    def __init__(self):
+        self.role       = "CS Undergrad → Software Developer"
+        self.location   = "Pune, India"
+        self.stack      = ["Java", "Python", "Django", "JavaScript", "React"]
+        self.currently_learning = ["AI/ML", "Data Science", "Cloud Native Dev"]
+        self.philosophy = "Ship it, break it, understand it, rebuild it better."
 
-- **Software Development**: Problem-solving, debugging, and project implementation
+    def say_hi(self):
+        return "Let's build something worth deploying 🚀"
+```
 
+<br>
 
+## 🛠️ Tech I reach for
 
-## 🎯 Projects & Work
+<div align="center">
 
-I enjoy working on various projects that challenge my skills and enhance my learning. Some areas I focus on include:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Java-based applications**
+</div>
 
-- **Web development with HTML, CSS, and JavaScript, React**
+<br>
 
-- **Android app development**
+## 🎯 Projects I'd point you to first
 
-- **Algorithmic problem-solving and data structures**
+<div align="center">
 
+<a href="https://github.com/Avadhut4244/ProductSphere-django">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=ProductSphere-django&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Avadhut4244/AI-CHATBOT-USING-NLP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=AI-CHATBOT-USING-NLP&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Avadhut4244/Any-Chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=Any-Chat&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Avadhut4244/gemini-chat-cloudrun">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=gemini-chat-cloudrun&theme=radical&hide_border=true" />
+</a>
 
+</div>
 
+| Project | What it's about |
+|---|---|
+| 🛍️ **[ProductSphere-django](https://github.com/Avadhut4244/ProductSphere-django)** | A Django-powered product platform — backend logic, models, and full-stack flow in one place |
+| 🤖 **[AI-CHATBOT-USING-NLP](https://github.com/Avadhut4244/AI-CHATBOT-USING-NLP)** | A conversational chatbot built around natural language processing |
+| 💬 **[Any-Chat](https://github.com/Avadhut4244/Any-Chat)** | A real-time chat application |
+| ☁️ **[gemini-chat-cloudrun](https://github.com/Avadhut4244/gemini-chat-cloudrun)** | Gemini-based chat app deployed on Cloud Run — AI meets cloud infra |
+| ✈️ **[Voyagepro-](https://github.com/Avadhut4244/Voyagepro-)** | A travel-planning app built with TypeScript |
+| ⚙️ **[my-first-github-actions](https://github.com/Avadhut4244/my-first-github-actions)** | Where I started automating my own workflows with CI/CD |
 
+<br>
 
-## 🌟 My Learning Journey
+## 📊 The numbers behind the noise
 
-I'm constantly improving my skills by working on real-world projects, solving coding challenges, and staying up to date with the latest technologies. I believe in **continuous learning and innovation**.  💡
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Avadhut4244&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com?user=Avadhut4244&theme=radical&hide_border=true" />
 
+<br>
 
-## 📫 Let's Connect!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhut4244&layout=compact&theme=radical&hide_border=true" />
 
-Feel free to reach out if you want to collaborate or discuss anything related to **software development**! 😊
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avadhut4244&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
----
+<br>
 
-🚀 **Keep Coding, Keep Learning!**
+## 📌 Currently
+
+- 🔭 Working on projects that connect **backend systems with AI/cloud services**
+- 🌱 Deepening my grip on **Data Science & Machine Learning fundamentals**
+- 🤝 Open to collaborating on **Django, Java, or AI-driven** side projects
+- ⚡ Fun fact: I'd rather debug a gnarly stack trace at 1 AM than leave it for tomorrow
+
+<br>
+
+## 📫 Find me / talk to me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhut-patil-964394257/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avadhut4244)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</div>
+
+<div align="center">
+<i>Thanks for scrolling this far — that's usually where the good repos are. ⭐</i>
+</div>
