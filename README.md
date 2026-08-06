@@ -53,34 +53,14 @@ class Avadhut:
 
 ## 🎯 Projects I'd point you to first
 
-<div align="center">
-
-<a href="https://github.com/Avadhut4244/ProductSphere-django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=ProductSphere-django&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Avadhut4244/Talent-Match-AI">
-  <img src="https://github.com/Avadhut4244/TalentMatch-AI" />
-</a>
-<a href="https://github.com/Avadhut4244/SmartFinance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=SmartFinance&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Avadhut4244/gemini-chat-cloudrun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=gemini-chat-cloudrun&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Avadhut4244/AI-CHATBOT-USING-NLP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=AI-CHATBOT-USING-NLP&theme=radical&hide_border=true" />
-</a>
-
-</div>
 
 | Project | What it's about |
 |---|---|
+| ✈️ **[Voyagepro-](https://github.com/Avadhut4244/Voyagepro-)** | A travel-planning app built with Spring Boot |
 | 🛍️ **[ProductSphere-django](https://github.com/Avadhut4244/ProductSphere-django)** | A Django-powered product platform — backend logic, models, and full-stack flow in one place |
-| 🤖 **[AI-CHATBOT-USING-NLP](https://github.com/Avadhut4244/AI-CHATBOT-USING-NLP)** | A conversational chatbot built around natural language processing |
-| 🧑‍💼 **[Talent Match AI](https://github.com/Avadhut4244/Talent-Match-AI)** | An AI-driven platform that matches candidates to roles based on skills and fit |
+| 🧑‍💼 **[Talent Match AI]((https://github.com/Avadhut4244/TalentMatch-AI)** | An AI-driven platform that matches candidates to roles based on skills and fit |
 | 💰 **[SmartFinance](https://github.com/Avadhut4244/SmartFinance)** | A smart personal finance app for tracking, budgeting, and managing money |
 | ☁️ **[gemini-chat-cloudrun](https://github.com/Avadhut4244/gemini-chat-cloudrun)** | Gemini-based chat app deployed on Cloud Run — AI meets cloud infra |
-| ✈️ **[Voyagepro-](https://github.com/Avadhut4244/Voyagepro-)** | A travel-planning app built with Spring Boot |
 | ⚙️ **[my-first-github-actions](https://github.com/Avadhut4244/my-first-github-actions)** | Where I started automating my own workflows with CI/CD |
 
 <br>
