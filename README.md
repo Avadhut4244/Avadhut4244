@@ -13,14 +13,14 @@
 
 ### 🧭 A little about the person behind the commits
 
-I'm a final-year Computer Science undergrad from **Pune, India** who likes turning half-baked ideas into working software — then breaking it, and fixing it again, because that's usually where the real learning happens. My stack leans **Java + Django** for backend logic, **React** for interfaces, and lately **GitHub Actions & cloud tooling** for making sure the things I build don't just work on my machine.
+I'm a Computer Science graduate (Class of 2026) from **Pune, India** who likes turning half-baked ideas into working software — then breaking it, and fixing it again, because that's usually where the real learning happens. My stack leans **Java + Django** for backend logic, **React** for interfaces, and lately **GitHub Actions & cloud tooling** for making sure the things I build don't just work on my machine.
 
 I'm not chasing every trend — I'm chasing depth. Right now that means going deeper into **AI/ML and data-driven systems** while staying sharp on core CS fundamentals (yes, DSA included).
 
 ```txt
 class Avadhut:
     def __init__(self):
-        self.role       = "CS Undergrad → Software Developer"
+        self.role       = "CS Graduate (2026) → Software Developer"
         self.location   = "Pune, India"
         self.stack      = ["Java", "Python", "Django", "JavaScript", "React"]
         self.currently_learning = ["AI/ML", "Data Science", "Cloud Native Dev"]
@@ -61,8 +61,11 @@ class Avadhut:
 <a href="https://github.com/Avadhut4244/AI-CHATBOT-USING-NLP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=AI-CHATBOT-USING-NLP&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/Avadhut4244/Any-Chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=Any-Chat&theme=radical&hide_border=true" />
+<a href="https://github.com/Avadhut4244/Talent-Match-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=Talent-Match-AI&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Avadhut4244/SmartFinance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=SmartFinance&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/Avadhut4244/gemini-chat-cloudrun">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avadhut4244&repo=gemini-chat-cloudrun&theme=radical&hide_border=true" />
@@ -74,7 +77,8 @@ class Avadhut:
 |---|---|
 | 🛍️ **[ProductSphere-django](https://github.com/Avadhut4244/ProductSphere-django)** | A Django-powered product platform — backend logic, models, and full-stack flow in one place |
 | 🤖 **[AI-CHATBOT-USING-NLP](https://github.com/Avadhut4244/AI-CHATBOT-USING-NLP)** | A conversational chatbot built around natural language processing |
-| 💬 **[Any-Chat](https://github.com/Avadhut4244/Any-Chat)** | A real-time chat application |
+| 🧑‍💼 **[Talent Match AI](https://github.com/Avadhut4244/Talent-Match-AI)** | An AI-driven platform that matches candidates to roles based on skills and fit |
+| 💰 **[SmartFinance](https://github.com/Avadhut4244/SmartFinance)** | A smart personal finance app for tracking, budgeting, and managing money |
 | ☁️ **[gemini-chat-cloudrun](https://github.com/Avadhut4244/gemini-chat-cloudrun)** | Gemini-based chat app deployed on Cloud Run — AI meets cloud infra |
 | ✈️ **[Voyagepro-](https://github.com/Avadhut4244/Voyagepro-)** | A travel-planning app built with TypeScript |
 | ⚙️ **[my-first-github-actions](https://github.com/Avadhut4244/my-first-github-actions)** | Where I started automating my own workflows with CI/CD |
