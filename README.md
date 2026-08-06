@@ -58,7 +58,7 @@ class Avadhut:
 |---|---|
 | ✈️ **[Voyagepro-](https://github.com/Avadhut4244/Voyagepro-)** | A travel-planning app built with Spring Boot |
 | 🛍️ **[ProductSphere-django](https://github.com/Avadhut4244/ProductSphere-django)** | A Django-powered product platform — backend logic, models, and full-stack flow in one place |
-| 🧑‍💼 **[Talent Match AI]((https://github.com/Avadhut4244/TalentMatch-AI)** | An AI-driven platform that matches candidates to roles based on skills and fit |
+| 🧑‍💼 **[Talent Match AI](https://github.com/Avadhut4244/TalentMatch-AI)** | An AI-driven platform that matches candidates to roles based on skills and fit |
 | 💰 **[SmartFinance](https://github.com/Avadhut4244/SmartFinance)** | A smart personal finance app for tracking, budgeting, and managing money |
 | ☁️ **[gemini-chat-cloudrun](https://github.com/Avadhut4244/gemini-chat-cloudrun)** | Gemini-based chat app deployed on Cloud Run — AI meets cloud infra |
 | ⚙️ **[my-first-github-actions](https://github.com/Avadhut4244/my-first-github-actions)** | Where I started automating my own workflows with CI/CD |
